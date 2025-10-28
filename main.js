@@ -3,7 +3,7 @@ const DATA_TYPES = {
   著者: "string",
   Wikipediaの紹介: "string",
   ジャンル: "category",
-  おすすめ度: "number",
+  評価: "number",
 };
 
 const numeralColumns = {};
