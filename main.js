@@ -3,7 +3,7 @@ const DATA_TYPES = {
   著者: "string",
   Wikipediaの紹介: "string",
   ジャンル: "category",
-  評価: "number",
+  おすすめ度: "number",
 };
 
 const DISPLAIES_FOR_SP = {
@@ -11,7 +11,7 @@ const DISPLAIES_FOR_SP = {
   著者: "none",
   Wikipediaの紹介: "none",
   ジャンル: "secondary",
-  評価: "secondary",
+  おすすめ度: "secondary",
 };
 
 const numeralColumns = {};
